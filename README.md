@@ -30,3 +30,29 @@ Desarrollado por Judá, estudiante de preparatoria con interés en bioinformáti
 ## Interfaz gráfica
 
 ![Interfaz gráfica](capturas/interfaz1.png)
+
+## Instrucciones de uso
+
+### Requisitos previos
+
+Asegúrate de tener instalado **Python 3.10 o superior** en tu computadora. También debes tener instalado el módulo `tkinter`, que usualmente viene por defecto con Python.
+
+### Ejecutar desde consola
+
+Puedes ejecutar la calculadora desde la terminal con:
+
+```bash
+python main.py
+
+python interfaz.py
+
+---
+
+### **2. Licencia**
+
+```markdown
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Puedes usar, modificar y distribuir este software con libertad, siempre que se mantenga esta nota de licencia.
+
+Consulta el archivo [LICENSE](LICENSE) para más detalles.
