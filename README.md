@@ -26,3 +26,7 @@ Creado como parte de un portafolio de exploración en química computacional, pr
 ## Créditos
 
 Desarrollado por Judá, estudiante de preparatoria con interés en bioinformática, farmacología y programación científica.
+
+## Interfaz gráfica
+
+![Interfaz gráfica](capturas/interfaz1.png)
