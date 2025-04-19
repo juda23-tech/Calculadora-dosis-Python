@@ -19,9 +19,11 @@ Este proyecto es una calculadora interactiva que estima la dosis recomendada de 
 
 Creado como parte de un portafolio de exploración en química computacional, programación y farmacología. Es ideal para estudiantes que inician en estas áreas.
 
-## Capturas de pantalla
+## Captura de pantalla
 
-![Interfaz gráfica](./capturas/interfaz1.png)
+A continuación se muestra una vista previa de la interfaz gráfica de la calculadora:
+
+![Interfaz gráfica](capturas/interfaz1.png)
 
 ## Créditos
 
